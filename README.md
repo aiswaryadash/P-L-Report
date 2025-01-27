@@ -1,4 +1,4 @@
-# P-L-Report
+# Sales Analytics
 
 ## Problem Statement
 Atliq Hardwares, a leading hardware company specializing in PCs, printers, mice, and computers with a global reach, faces the challenge of optimizing sales and improving net gross margin.
